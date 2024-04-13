@@ -1,0 +1,1 @@
+#Só execute o build.sh uma vez, assim você terá sua imagem
