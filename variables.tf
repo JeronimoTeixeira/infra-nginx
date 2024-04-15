@@ -33,3 +33,9 @@ variable "ecs_name" {
   type = string
   default = "EcsMs"
 }
+
+variable "ecr_name" {
+  description = "Nome do ECR"
+  type = string
+  default = "ecr-ms"
+}
